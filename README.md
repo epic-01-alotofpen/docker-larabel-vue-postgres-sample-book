@@ -113,4 +113,4 @@ docker compose exec frontend npm run dev
 ## 🧑‍💻 作者・ライセンス
 
 MIT License  
-(c) 2025 あなたの名前または GitHub ID
+(c) 2025 epic-01-alotofpen
